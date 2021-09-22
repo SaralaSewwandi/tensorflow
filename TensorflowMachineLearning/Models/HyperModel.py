@@ -1,0 +1,2 @@
+class HyperModel:
+    pass
