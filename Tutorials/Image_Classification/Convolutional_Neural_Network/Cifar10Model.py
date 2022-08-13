@@ -1,7 +1,6 @@
 from BaseModel import BaseModel
 import tensorflow as tf
 from tensorflow.keras import  layers
-import matplotlib.pyplot as plt
 
 class Cifar10Model(BaseModel):
  def __init__(self, input_shape=(32,32,3)):

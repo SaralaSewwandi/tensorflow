@@ -1,6 +1,8 @@
 import tensorflow as tf
 from tensorflow.keras import  models
 import time
+import matplotlib.pyplot as plt
+
 
 class BaseModel:
  def __init__(self):
